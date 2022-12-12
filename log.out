@@ -1,0 +1,14 @@
+Hello this is a debug message
+Hello this is an info message
+Hello this is a debug message
+Hello this is an info message
+Hello this is a debug message
+Hello this is an info message
+Hello this is a debug message
+Hello this is an info message
+2022-12-12 15:48:34,360 DEBUG - Hello this is a debug message
+2022-12-12 15:48:34,366 INFO  - Hello this is an info message
+12 dic. 2022 15:49:54,90612 dic. 2022 15:49:54,9062022-12-12 15:51:50,337 DEBUG - Hello this is a debug message
+2022-12-12 15:51:50,347 INFO  - Hello this is an info message
+2022-12-12 15:52:01,276 DEBUG - Hello this is a debug message
+2022-12-12 15:52:01,276 INFO  - Hello this is an info message
